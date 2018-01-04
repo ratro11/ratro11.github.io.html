@@ -1,0 +1,19 @@
+<html> 
+<head> 
+<title>Стихи от Анны Вороновой</title> 
+</head> 
+<body text="#000000"bgcolor"#FF0000"> <body background="https://i.ytimg.com/vi/0fx9GUmzuC8/maxresdefault.jpg">
+<div align="center"> 
+<font size="+6"><h1>Стихи от Анны Вороновой</h1></font>
+</div> 
+<font color="#000000"><font size="+3">На нашем сайте вы можете приобрести множество игр, начиная от DOTA2 и заканчивая GTA5
+<br><br>CSGO-Популярная игра в стиле шутер,посвящена противостоянию террористов и подразделений специального назначения всего за</font><br><font size="+5">  299 рублей<br><img src="http://csru.ru/uploads/posts/2014-08/1408558221_model-ak-47-velocity-dlya-cs-go1.jpg"><br><img src="http://csru.ru/uploads/posts/2014-02/1391269169_model-oruzhiya-awp-gentleman-dlya-cs-go1.jpg">
+<font size="+3"><br><br> Еще у нас есть Fallout 4.<br>Fallout 4-это игра в стиле шутер, игра имеет увлекательный сюжет и потрясающую графику.На нашем сайте она стоит всего<font size="+5"><br>1500 рублей<br><img src="http://i.kinja-img.com/gawker-media/image/upload/s--HFNgWcq3--/c_scale,fl_progressive,q_80,w_800/njl5lyn1ltsxy8k4pyq5.png"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--arrMgAUR--/c_scale,fl_progressive,q_80,w_800/f8f8xnuvzczkqqwvf5pr.jpg">
+<font size="+3"><br><br>На нашем сайте присутствует еще множество игр,вы можете посмотреть их на странице №2
+</font> 
+<div align="right"> <a href="2.html">Таблица</a></div> 
+<div align="right"> <a href="3.html">Определения</a></div> 
+<div align="right"><a href="4.html">Словарь</a></div>
+<div align="right"> <a href="5.html">Регистрация</a></div> 
+</body>
+</html> 
